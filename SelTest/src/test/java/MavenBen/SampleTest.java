@@ -11,7 +11,7 @@ public class SampleTest {
 
 		DesiredCapabilities ch = new DesiredCapabilities();
 		ch.setBrowserName("Chrome");
-		
+		//comment added
 		System.setProperty("webdriver.chrome.driver","C://Selenium jars//Chrome Drivers//chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		//driver.get("https://www.google.com/?gws_rd=ssl");
