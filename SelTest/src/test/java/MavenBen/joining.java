@@ -13,7 +13,9 @@ public class joining {
 	
 	private void syso1() {
 		// TODO Auto-generated method stub
+
 System.out.println("I am on 15Oct second branch");
-System.out.println("am master push");
+
+
 	}
 }
