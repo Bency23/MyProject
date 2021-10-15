@@ -7,6 +7,12 @@ public class joining {
 
 		
 		System.out.println("fgsjgsf");
+		System.out.println("hbhej");
 	}
 
+	
+	private void syso1() {
+		// TODO Auto-generated method stub
+System.out.println("hellos");
+	}
 }
